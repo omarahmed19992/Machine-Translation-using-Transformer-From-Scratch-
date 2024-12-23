@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, it's a Machine Transilation using Transformer from Scratch project </h1>
 <h3 align="center">
-  <img src="Transformer.png" width="1200" height="400">
+  <img src="Transformer.png" width="1100" height="400">
 </h3>
 
 - #### 🌱 If you want to convert your knowledge about transformer from therotical to practiacal , It' a good step and wish you the best ^ ^
